@@ -80,6 +80,15 @@ void setup() {
 
 ![v2.2 schematic](kicad/v2.2/schematic_v2.2.png)
 
+## Board Design Data
+
+Board design data is provided in KiCad project format.
+
+- v1.1: `kicad/v1.1/`
+- v2.2: `kicad/v2.2/`
+
+Each version's board design data includes schematics, PCB layouts, bill of materials (BOM), and more.
+
 ## Sample Code
 
 Sample code for each version is stored under the `example/` directory.
