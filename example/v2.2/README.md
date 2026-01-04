@@ -1,0 +1,3 @@
+# SPRESENSE_LINE_test
+PIRセンサーの割込みでSPRESENSEとESP8266でLINEへメッセージを送信するテストプログラムです。
+SPRESENSE Wi-Fi add-on v2.2と組み合わせて、ESP8266のDeep Sleep機能とSPRESENSEのCold Sleep機能を使用して、待機時電力を削減しています。
